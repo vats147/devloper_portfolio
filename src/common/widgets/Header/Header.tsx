@@ -46,11 +46,11 @@ const Header = () => {
 
           <Link href='/' className='flex' >
              <AnimatedTextCharacter 
-                text='R'
+                text='V'
                 className='text-4xl font-semibold text-sky-700' 
              />
              <AnimatedTextCharacter 
-                text='aihan.'
+                text='atsal.'
                 className='text-4xl text-slate-700/80' 
              />
           </Link>

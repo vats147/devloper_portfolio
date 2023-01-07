@@ -4,9 +4,9 @@ import { SocialTypes } from './types'
 
 // social media data
 export const socialData : SocialTypes[] = [
-    { icon : FiGithub, url : "https://github.com/raihanhosen011" },
-    { icon : FiLinkedin, url : "https://www.linkedin.com/in/raihanhosen01/" },
-    { icon : FiTwitter, url : "https://twitter.com/raihanhosen01" },
-    { icon : FiInstagram, url : "https://instagram.com/raihanhosen0001" },
-    { icon : FiFacebook, url : "https://www.facebook.com/raihanhosen01" },
+    { icon : FiGithub, url : "https://github.com/vats147" },
+    { icon : FiLinkedin, url : "https://www.linkedin.com/in/vatsal-mangukiya-3b0370208/" },
+    { icon : FiTwitter, url : "https://twitter.com/VatsalMangukiy3" },
+    { icon : FiInstagram, url : "https://instagram.com/vatsal_mangukiya_" },
+    
 ]

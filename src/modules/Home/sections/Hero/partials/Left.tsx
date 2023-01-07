@@ -22,7 +22,7 @@ const Left = () => {
             <div>
                <AnimatedTextCharacter 
                   className='!font-medium !bg-clip-text !text-5xl !leading-normal md:!text-7xl md:!leading-[87px] !text-slate-300' 
-                  text="Raihan Hosen." 
+                  text="Vatsal Mangukiya." 
                />
                <AnimatedTextCharacter 
                   className='font-medium text-3xl sm:text-4xl tracking-normal md:text-5xl text-slate-400 mt-1' 
@@ -32,7 +32,7 @@ const Left = () => {
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
+                  text="Highly motivated and very passionate Full Stack Developer with three years of experience in  React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
                />
             </div>
         </div>
