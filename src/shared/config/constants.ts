@@ -15,7 +15,7 @@ export const projects: ProjectTypes[] = [
       "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section and saleing system",
     tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
     code: "https://github.com/vats147/developer-portfolio",
-    live: "https://raihanhosen.com",
+    live: "#",
     thumnail: "portfolio-v2.png",
     featured: true,
   },
